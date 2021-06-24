@@ -6,6 +6,6 @@ Halaman Home:
 ![Home 2](https://user-images.githubusercontent.com/71967665/123344770-c30df700-d57e-11eb-8b26-b4318b9ed4b6.png)
 
 
-Halaman Checkout
+Halaman Checkout:
 ![Checkout](https://user-images.githubusercontent.com/71967665/123344804-d4570380-d57e-11eb-8e12-de4d47b00d3a.png)
 
